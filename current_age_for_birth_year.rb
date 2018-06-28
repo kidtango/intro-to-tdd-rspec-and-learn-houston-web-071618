@@ -3,3 +3,4 @@ def current_age_for_birth_year(year_of_birth)
 end
 
 current_age_for_birth_year(1999)
+print current_age_for_birth_year
